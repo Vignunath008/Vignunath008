@@ -33,29 +33,6 @@ Power BI | Tableau | EDA | Data Visualization
 
 ---
 
-## 📊 Featured Projects
-
-### 🔹 Real-Time User Activity Analytics Pipeline
-
-* Built a **real-time data pipeline** processing 50K+ events/day
-* Used **Kafka** for ingestion and **Spark Structured Streaming** for processing
-* Reduced latency from **hours → seconds**
-* Improved data accuracy and performance using optimization techniques
-
-**Tech:** Python, Kafka, Spark, Hadoop, AWS
-
----
-
-### 🔹 Feedback Analyzer (MERN Stack)
-
-* Developed a **sentiment analysis platform** for user feedback
-* Built dashboards for insights and visualization
-* Implemented REST APIs for efficient backend processing
-
-**Tech:** MongoDB, Express.js, React.js, Node.js
-
----
-
 ## 📜 Certifications
 
 * AWS Certified Solutions Architect – Associate
