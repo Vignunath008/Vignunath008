@@ -137,7 +137,7 @@ me.say_hi()
 
 | Badge | Certification | Provider |
 |:---:|---|:---:|
-| ☁️ | **AWS Certified Solutions Architect – Associate** | Amazon Web Services |
+| ☁️ | **AWS Certified Solutions Architect – Associate** | GeeksforGeeks |
 | 🔥 | **Data Engineering with Hadoop and Spark** | Online |
 | 🐍 | **Python Programming Certification** | Online |
 
