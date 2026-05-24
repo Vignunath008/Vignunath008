@@ -9,20 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Real-Time+Data+Pipelines+%F0%9F%9A%80;Apache+Kafka+%7C+Spark+%7C+Hadoop+Engineer;AWS+Certified+Solutions+Architect;Turning+Raw+Data+into+Real+Insight+%F0%9F%A7%A0;Open+to+Data+Engineering+Opportunities!" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vignunathareddy@gmail.com)
-
-<br/>
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=vignu&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-
-</div>
 
 ---
 
