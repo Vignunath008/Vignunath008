@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28185452/README.md)
+[README.1.md](https://github.com/user-attachments/files/28185694/README.1.md)
 <div align="center">
 
 <!-- Animated Header -->
@@ -9,6 +9,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Real-Time+Data+Pipelines+%F0%9F%9A%80;Apache+Kafka+%7C+Spark+%7C+Hadoop+Engineer;AWS+Certified+Solutions+Architect;Turning+Raw+Data+into+Real+Insight+%F0%9F%A7%A0;Open+to+Data+Engineering+Opportunities!" alt="Typing SVG" />
 </a>
 
+
+</div>
 
 ---
 
@@ -71,6 +73,12 @@ me.say_hi()
 ### 📊 Visualization & Analytics
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🌐 Web & APIs
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -158,4 +166,3 @@ me.say_hi()
 **⭐ If you find my work interesting, consider starring my repos!**
 
 </div>
-
